@@ -9,25 +9,33 @@ const ARTISTS = [
     id: "syifei",
     name: "蘇裔非",
     role: "Producer · Artist",
-    bio: "asdfghjk",
+    bio: "測試123123123",
     photo: null, // e.g. "assets/artists/syifei.jpg"
-    tags: ["Producer", "Electronic", "台北"]
+    tags: ["Producer", "Hip-Hop"]
   },
   {
     id: "mgs",
     name: "MGS",
-    role: "Producer · Artist",
-    bio: "Producer and multi-instrumentalist based in Taipei. Known for dense, layered production and a meticulous approach to sound design.",
+    role: "Artist",
+    bio: "AAAAAA",
     photo: null, // e.g. "assets/artists/mgs.jpg"
-    tags: ["Producer", "R&B", "Taipei"]
+    tags: ["Hip-Hop", "R&B"]
   },
   {
     id: "bafen",
     name: "百分",
-    role: "MC · Lyricist",
-    bio: "MC 兼詞人。用文字剖析生活的細節，語感精準而克制。作品散見各地下場景，持續累積屬於自己的聲音語言。",
+    role: "Artist",
+    bio: "AAAAAAAAA",
     photo: null,
-    tags: ["Hip-Hop", "MC", "台灣"]
+    tags: ["Pop"]
+  },
+  {
+    id: "mufan",
+    name: "慕凡",
+    role: "Artist",
+    bio: "AAAAAAAAA",
+    photo: null,
+    tags: ["Art"]
   }
 ];
 
@@ -38,7 +46,7 @@ const PROJECTS = [
     subtitle: "蘇裔非 — Album · 2026",
     cover: "assets/projects/shaonian.jpg",
     eyebrow: "Album · 2026 · WILDFLOWER",
-    artist: "蘇裔非 · A Film by Ifei Su",
+    artist: "蘇裔非",
     credits: `EXECUTIVE PRODUCER: 蘇裔非
 PRODUCER 製作: 蘇裔非 (All Tracks)
 ARRANGEMENT 編曲: 蘇裔非 (All Tracks)
